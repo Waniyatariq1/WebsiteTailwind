@@ -14,7 +14,7 @@ const Navbar = () => {
           alt="banner" width={600} height={400}
           className='w-10 h-10 rounded-ful'/>
             <h1 className="text-lg sm:text-xl md:text-2xl lg:text-2xl font-semibol">
-                <a href="#!">Saima Riaz</a> 
+                <a href="#!">Waniya Tariq</a> 
                 </h1>
          </div>
         <div className="w-full sm:w-auto mb-4 sm:mb-0">

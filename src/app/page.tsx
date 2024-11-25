@@ -6,11 +6,11 @@ export default function Home() {
   return (
     <div>
 <h1 className='text-5xl'>
-  Welcome To Saima Riazs Website
+  Welcome To Waniya Tariqs Website
 </h1>
-<h3 className='text-3xl'>Welcome to Saima Riazs Web Development Services
+<h3 className='text-3xl'>Welcome to Waniya Tariqs Web Development Services
 
-Hi there Iam Saima riaz a passionate and experienced web developer dedicated to crafting innovative user-friendly websites that elevate your online presence. Whether you are looking to build a brand-new website optimize an existing one or create a custom web application I have the skills and expertise to bring your vision to life.
+Hi there Iam Waniya Tariq a passionate and experienced web developer dedicated to crafting innovative user-friendly websites that elevate your online presence. Whether you are looking to build a brand-new website optimize an existing one or create a custom web application I have the skills and expertise to bring your vision to life.
 
 What I Do:
 
